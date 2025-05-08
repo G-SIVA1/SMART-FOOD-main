@@ -2,7 +2,6 @@
 
 SMART FOOD is a full-stack web application designed to manage food-related data and user authentication efficiently. It features a Node.js/Express backend and a modern frontend (assumed to be React) for a seamless user experience.
 
----
 
 ## ✨ Features
 
@@ -11,8 +10,6 @@ SMART FOOD is a full-stack web application designed to manage food-related data 
 - Image/file upload support
 - MongoDB for database management
 - Modular architecture with controllers, middleware, and models
-
----
 
 ## 🛠 Tech Stack
 
@@ -30,8 +27,6 @@ SMART FOOD is a full-stack web application designed to manage food-related data 
 - Bootstrap / Tailwind (assumed styling)
 - React Router (if applicable)
 
----
-
 ## 🔧 Getting Started
 
 ### Prerequisites
@@ -39,7 +34,6 @@ SMART FOOD is a full-stack web application designed to manage food-related data 
 - MongoDB (local or cloud)
 - npm or yarn
 
----
 
 ### Backend Setup
 
@@ -93,9 +87,7 @@ npm install
 npm start
 ```
 
-The frontend will usually run on [http://localhost:3000](http://localhost:3000) and communicate with the backend on port `5000`.
-
----
+The frontend will usually run on [http://localhost:3000](http://localhost:3000) and communicate with the backend on port `5000`
 
 ## 📁 Project Structure
 
