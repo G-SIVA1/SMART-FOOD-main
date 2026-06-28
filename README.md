@@ -85,7 +85,7 @@ npm install
 
 ```bash
 npm start
-```
+
 
 The frontend will usually run on [http://localhost:3000](http://localhost:3000) and communicate with the backend on port `5000`
 
